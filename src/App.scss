@@ -42,4 +42,11 @@
   &__text {
     margin-bottom: $bpk-spacing-sm;
   }
+
+  &__calendar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: $bpk-spacing-xl;
+  }
+ 
 }
